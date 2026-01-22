@@ -3,8 +3,8 @@
   "short_name": "Students Fixture",
   "start_url": ".",
   "display": "fullscreen",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#050505",
+  "theme_color": "#050505",
   "orientation": "portrait",
   "icons": [
     {
